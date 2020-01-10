@@ -65,10 +65,10 @@ También se indica el tiempo de ejecución empleado por cada script
 04c_Sample_ROC_auc_LOGREG_NEWTONcg_hyperparameters.ipynb; (11 segs)
 - Implementar hyperparámetros manuales sobre muestras de datos para un modelo de regresión logística con el solver "NEWTON_CG", mostrando gráficas ROC mediante AUC de clases.
 
-05_Apply_final_LOGREG_NEWTON_CG_model.ipynb; (1814 segs)
+05_Apply_final_LOGREG_NEWTONcg_model.ipynb; (1814 segs)
 - Aplicar el mejor modelo resultante después del tunning de hiperparámetros al conjunto de los datos completos. En este caso, seguimos con un modelo de regresión logística con el solventador "NEWTON_CG", mostrando algunas gráficas que muestran algunas distribuciones y comportamientos de una muestra de los datos.
 
-06_Apply_final_ROC_auc_LOGREG_SAG_complete.ipynb; (355 segs)
+06_Apply_final_ROC_auc_LOGREG_NEWTONcg_complete.ipynb; (355 segs)
 - Implementar el modelo final sobre el conjunto de datos completo para un modelo de regresión logística con el solver "NEWTON_CG", mostrando gráficas ROC mediante AUC de clases.
 
    
